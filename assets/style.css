@@ -5,6 +5,7 @@ body {
     color: #777777;
     padding-top: 80px;
     margin-bottom: 100px; 
+    margin-top: 30px;
 }
 
 /* styles for header */
@@ -33,6 +34,7 @@ body {
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-top: 15px;
 }
 
 /* styles for links */
@@ -40,6 +42,13 @@ a {
     color: #777777;
     text-decoration: none;  
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+/* button style */
+
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
 
 /* footer styles */
